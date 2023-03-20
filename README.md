@@ -17,13 +17,8 @@ Feel free to mention what you might do, or the interviewer might through in an e
 
 Generally its easiest to follow the specs in order -- but it's up to you.
 
-## Specifications
+## Tasks
 
-1. Create an input form that accepts: Description, Hours Per Day, Start Date, End Date
-2. Create a table of all assignments with the data as above
-3. Create some test data, in the same format as the form. Ensure the test data is updated every time a new input is submitted.
-4. Create table/list/etc that shows the total numbers of hours worked each day, for any day an assignment falls on.
-5. Add unit tests for the calculations
-6. Display on a graph the total amount of hours being worked each day
-7. Add a "Project" field, and show the total hours worked on a project
-8. Add a "Person" field, and then split the daily hours worked calculations out by person
+1. Create a way for users to create assignments. Assignments have the following properties: Description, Hours Per Day, Start Date, End Date. The user should be able to save the assignment - but the data is not yet displayed anywhere.
+
+Additional tasks will be communicated as we go.
